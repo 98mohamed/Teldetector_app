@@ -1,0 +1,8 @@
+0 100 baisa
+1 500 baisa
+2 1 OR
+3 5 OR
+4 10 OR
+5 20 OR
+6 50 OR
+7 NOT SUPP
